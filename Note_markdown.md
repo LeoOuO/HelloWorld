@@ -2,10 +2,7 @@ text
 # text
 ## text
 
-This is an H1
-=============
-
-This is an H2
--------------
+[Google](https://www.google.com/)  
+[GoogleBlank](https://www.google.com "This is Google"){:target="_blank"}
 
 
